@@ -1,16 +1,21 @@
-# pokedex
+# Poképedia 📱
 
-A new Flutter project.
+A modern **Pokédex mobile app** built with **Flutter** that lets users explore Pokémon, view their stats, abilities, and types using data from the [PokéAPI](https://pokeapi.co/).  
+This project demonstrates Flutter UI design, API integration, and clean state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🔎 Browse a list of Pokémon with official artwork
+- 📖 View detailed information about each Pokémon
+- 🎨 Beautiful UI with gradients, custom fonts, and animations
+- ⚡ Fast API integration with [PokéAPI](https://pokeapi.co/)
+- 🧑‍💻 Clean code with reusable components
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/ed518163-92c8-4ee4-80a6-3695945dd3c7
+
+
